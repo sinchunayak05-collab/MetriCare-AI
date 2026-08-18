@@ -38,9 +38,7 @@ MetriCare AI provides:
 - Mobile Application
 - Cloud Database
 
-## Project Presentation
 
-[View Project Presentation](MetriCare-AI-Presentation.pdf)
 
 ## Future Scope
 
